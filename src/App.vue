@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <h1>Demo</h1>
+      <h1>Demo1</h1>
       <Home></Home>
     </div>
     
